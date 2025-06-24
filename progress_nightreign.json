@@ -2,7 +2,7 @@
   {
     "name": "Wylder",
     "total": 8,
-    "defeated": 0,
+    "defeated": 2,
     "nightlords": [
       "Tricephalos",
       "Gaping Jaw",
@@ -19,9 +19,9 @@
       false,
       false,
       false,
+      true,
       false,
-      false,
-      false
+      true
     ]
   },
   {
@@ -102,7 +102,7 @@
   {
     "name": "Ironeye",
     "total": 8,
-    "defeated": 0,
+    "defeated": 2,
     "nightlords": [
       "Tricephalos",
       "Gaping Jaw",
@@ -119,8 +119,8 @@
       false,
       false,
       false,
-      false,
-      false,
+      true,
+      true,
       false
     ]
   },
