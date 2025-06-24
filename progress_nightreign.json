@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Wylder",
+    "total": 8,
+    "defeated": 0,
+    "nightlords": [
+      "Tricephalos",
+      "Gaping Jaw",
+      "Sentient Pest",
+      "Augur",
+      "Equilibrious Beast",
+      "Darkdrift Knight",
+      "Fissure in the Fog",
+      "Night Aspect"
+    ],
+    "defeated_nightlords": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "Guardian",
+    "total": 8,
+    "defeated": 0,
+    "nightlords": [
+      "Tricephalos",
+      "Gaping Jaw",
+      "Sentient Pest",
+      "Augur",
+      "Equilibrious Beast",
+      "Darkdrift Knight",
+      "Fissure in the Fog",
+      "Night Aspect"
+    ],
+    "defeated_nightlords": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "Duchess",
+    "total": 8,
+    "defeated": 0,
+    "nightlords": [
+      "Tricephalos",
+      "Gaping Jaw",
+      "Sentient Pest",
+      "Augur",
+      "Equilibrious Beast",
+      "Darkdrift Knight",
+      "Fissure in the Fog",
+      "Night Aspect"
+    ],
+    "defeated_nightlords": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "Recluse",
+    "total": 8,
+    "defeated": 0,
+    "nightlords": [
+      "Tricephalos",
+      "Gaping Jaw",
+      "Sentient Pest",
+      "Augur",
+      "Equilibrious Beast",
+      "Darkdrift Knight",
+      "Fissure in the Fog",
+      "Night Aspect"
+    ],
+    "defeated_nightlords": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "Ironeye",
+    "total": 8,
+    "defeated": 0,
+    "nightlords": [
+      "Tricephalos",
+      "Gaping Jaw",
+      "Sentient Pest",
+      "Augur",
+      "Equilibrious Beast",
+      "Darkdrift Knight",
+      "Fissure in the Fog",
+      "Night Aspect"
+    ],
+    "defeated_nightlords": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "Raider",
+    "total": 8,
+    "defeated": 0,
+    "nightlords": [
+      "Tricephalos",
+      "Gaping Jaw",
+      "Sentient Pest",
+      "Augur",
+      "Equilibrious Beast",
+      "Darkdrift Knight",
+      "Fissure in the Fog",
+      "Night Aspect"
+    ],
+    "defeated_nightlords": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "Executor",
+    "total": 8,
+    "defeated": 0,
+    "nightlords": [
+      "Tricephalos",
+      "Gaping Jaw",
+      "Sentient Pest",
+      "Augur",
+      "Equilibrious Beast",
+      "Darkdrift Knight",
+      "Fissure in the Fog",
+      "Night Aspect"
+    ],
+    "defeated_nightlords": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  {
+    "name": "Revenant",
+    "total": 8,
+    "defeated": 0,
+    "nightlords": [
+      "Tricephalos",
+      "Gaping Jaw",
+      "Sentient Pest",
+      "Augur",
+      "Equilibrious Beast",
+      "Darkdrift Knight",
+      "Fissure in the Fog",
+      "Night Aspect"
+    ],
+    "defeated_nightlords": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  }
+]
