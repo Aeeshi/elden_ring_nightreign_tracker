@@ -55,3 +55,25 @@ input[type="checkbox"] {
   border: 2px solid #888;
   border-radius: 3px;
 }
+/* Ukryj domyślny checkbox */
+input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #888;
+  border-radius: 4px;
+  position: relative;
+  cursor: default;
+  background-color: #222;
+}
+
+/* Zielony ptaszek */
+input[type="checkbox"]:checked::after {
+  content: '✓';
+  color: #38c172; /* zielony */
+  font-size: 16px;
+  position: absolute;
+  left: 3px;
+  top: -2px;
+}
